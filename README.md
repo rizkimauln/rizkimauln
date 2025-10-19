@@ -54,8 +54,7 @@
 
 ###
 
-![snake animation](https://raw.githubusercontent.com/rizkimauln/rizkimauln/main/output/github-contribution-grid-snake2.svg)
-
+https://github.com/rizkimauln/rizkimauln/blob/output/github-contribution-grid-snake2.svg
 
 ###
 
